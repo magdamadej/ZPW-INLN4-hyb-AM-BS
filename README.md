@@ -1,6 +1,6 @@
 # ZOO Online
 **ZOO online** to prosta strona internetowa, realizowana w projekcie grupowym w ramach przedmiotu Zarządzanie Projektem Wdrożeniowym na WSB Merito w Gdańsku.
-Chcesz pomóc? Super! Zobacz zasady współpracy w [CONTRIBUTING.md](CONTRIBUTING.md).
+Chcesz pomóc? Super! Zobacz zasady współpracy w [**CONTRIBUTING.md**](CONTRIBUTING.md).
 
 Strona jest dostępna online dzięki GitHub Pages:
 [**Zobacz podgląd**](https://magdamadej.github.io/ZPW-INLN4-hyb-AM-BS/)
