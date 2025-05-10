@@ -5,7 +5,7 @@ Chcesz pomóc? Super! Zobacz zasady współpracy w [**CONTRIBUTING.md**](CONTRIB
 Strona jest dostępna online dzięki GitHub Pages:
 [**Zobacz podgląd**](https://magdamadej.github.io/ZPW-INLN4-hyb-AM-BS/)
 
-![Zrzut z projektu](zoo-online.jpg)
+![Zrzut z projektu](img/zoo-online.jpg)
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
