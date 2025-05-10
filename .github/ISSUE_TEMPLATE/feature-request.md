@@ -1,52 +1,22 @@
-name:  Propozycja funkcjonalności
-about: Zgłoś pomysł na nową funkcjonalność
-title: "[Feature Request]: "
+---
+name: Propozycja funkcjonalności
+about: Zgłoś nową funkcjonalność lub usprawnienie dla ZOO Online
+title: "[FEATURE] Krótki opis"
 labels: enhancement
 assignees: ''
+---
 
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Dziękujemy za zgłoszenie propozycji! Prosimy wypełnij poniższy formularz możliwie dokładnie.
+**Opis funkcjonalności**  
+Opisz krótko, na czym polega proponowana funkcjonalność i jaki problem ma rozwiązywać.
 
-  - type: input
-    id: summary
-    attributes:
-      label: Krótkie podsumowanie
-      description: Jednozdaniowy opis funkcjonalności
-      placeholder: Np. "Dodanie trybu ciemnego do interfejsu użytkownika"
-    validations:
-      required: true
+**Uzasadnienie**  
+Dlaczego ta funkcjonalność jest potrzebna? Jakie korzyści przyniesie użytkownikom lub zespołowi?
 
-  - type: textarea
-    id: description
-    attributes:
-      label: Opis funkcjonalności
-      description: Opisz szczegółowo, czego dotyczy propozycja i dlaczego jest istotna.
-    validations:
-      required: true
+**Proponowane rozwiązanie**  
+Jeśli masz pomysł na implementację – opisz go tutaj.
 
-  - type: textarea
-    id: solution
-    attributes:
-      label: Proponowane rozwiązanie
-      description: Jeśli masz pomysł na implementację, opisz go tutaj.
-    validations:
-      required: false
+**Alternatywne rozwiązania**  
+Czy rozważałeś inne opcje? Jeśli tak – jakie?
 
-  - type: textarea
-    id: alternatives
-    attributes:
-      label: Alternatywy
-      description: Czy rozważałeś inne sposoby rozwiązania problemu?
-    validations:
-      required: false
-
-  - type: textarea
-    id: additional-context
-    attributes:
-      label: Dodatkowe informacje
-      description: Dodaj tu zrzuty ekranu, diagramy lub inne pomocne materiały.
-    validations:
-      required: false
+**Dodatkowe informacje**  
+Dodaj tu wszystko, co może pomóc: zrzuty ekranu, linki, kontekst, diagramy.
