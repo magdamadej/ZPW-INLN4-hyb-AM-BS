@@ -4,6 +4,8 @@
 Strona jest dostępna online dzięki GitHub Pages:
 [**Zobacz podgląd**](https://magdamadej.github.io/ZPW-INLN4-hyb-AM-BS/)
 
+![Zrzut z projektu](zoo-online.jpg)
+
 ## Spis treści
 - [Opis projektu](#opis-projektu)
 - [Technologie](#technologie)
