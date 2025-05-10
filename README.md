@@ -15,3 +15,4 @@ Strona jest dostępna online dzięki GitHub Pages:
 - Jakub
 - Illia
 - Mikołaj
+- Marta
